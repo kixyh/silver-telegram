@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<false/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Looks</string>
+			<key>PayloadDescription</key>
+			<string>Custom Web Clip for aesthetic home screen</string>
+			<key>PayloadDisplayName</key>
+			<string>Looks</string>
+			<key>PayloadIdentifier</key>
+			<string>com.custom.looks.webclip</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>65f75598-b251-42ed-942e-9b996e62bb45</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://www.apple.com</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Example custom profile that adds a Web Clip icon to your Home Screen. Fully removable. This is a safe demo for the install flow you showed.</string>
+	<key>PayloadDisplayName</key>
+	<string>Custom Looks</string>
+	<key>PayloadIdentifier</key>
+	<string>com.custom.looks.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Custom</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ade56d3c-b6e9-49ad-a7f4-70dbdb519585</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
